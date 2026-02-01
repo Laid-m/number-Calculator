@@ -12,3 +12,5 @@ elif op == "/":
     print(x / y)
 else:
     print("ошибка")
+
+    
